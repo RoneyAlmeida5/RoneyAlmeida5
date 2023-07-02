@@ -1,5 +1,5 @@
 Oi, Eu sou Roney Almeida 👋 
-Estou em desenvolvimento profissional, aberto a qualquer linguagem ou área, mas o Front-End é a minha paixão, mas hoje estudo de tudo um pouco para ter a minha primeira oportunidade na área de minha formação. 🚀
+Estou em desenvolvimento profissional, aberto a qualquer linguagem ou área, mas o Front-End é a minha paixão, hoje estudo de tudo um pouco para ter a minha primeira oportunidade na área de minha formação. 🚀
 
 Minhas ferramentas atuais
 📲 Front-end Mobile Com React-Native, HTML, Typescript, React.
