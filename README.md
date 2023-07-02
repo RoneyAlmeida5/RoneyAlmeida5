@@ -1,9 +1,10 @@
 Oi, Eu sou Roney Almeida 👋 
-Sou desenvolvedor de Front-End na linguagem React-Native. 🚀
+Estou em desenvolvimento profissional, aberto a qualquer linguagem ou área, mas o Front-End é a minha paixão, mas hoje estudo de tudo um pouco para ter a minha primeira oportunidade na área de minha formação. 🚀
 
 Minhas ferramentas atuais
-📲 Front-end Mobile Com React Native
+📲 Front-end Mobile Com React-Native, HTML, Typescript, React.
 📡 Iniciando Back-End com Nodejs
+
 
 Conhecimento técnico com as seguintes tecnologias de desenvolvimento: HTML, CSS, Javascript, React-Native, MySQL, Styled Components, Git.
 
