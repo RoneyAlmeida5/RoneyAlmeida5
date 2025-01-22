@@ -1,21 +1,22 @@
-Oi, Eu sou Roney Almeida 👋 
-Estou em desenvolvimento profissional, aberto a qualquer linguagem ou área, mas o Front-End é a minha paixão, hoje estudo de tudo um pouco para ter a minha primeira oportunidade na área de minha formação. 🚀
+👋 Olá, eu sou Roney Almeida, um desenvolvedor em início de carreira apaixonado por tecnologia, especialmente pelo Front-End. Estou em busca da minha primeira oportunidade no mercado para colocar em prática as habilidades que venho desenvolvendo. 🚀
 
-Minhas ferramentas atuais
-📲 Front-end Com React, HTML, CSS.
-📡 Iniciando Back-End com Nodejs
+🎯 Minha missão: Criar experiências digitais incríveis, sempre aprendendo e evoluindo para oferecer as melhores soluções. Embora o Front-End seja minha paixão, estou aberto a explorar outras áreas e linguagens para expandir meu conhecimento.
 
+🛠️ Tecnologias e Ferramentas:
 
-Conhecimento técnico com as seguintes tecnologias de desenvolvimento: HTML, CSS, Javascript, React-Native, React, MySQL, Styled Components, Git.
+Front-End: React.js, React Native, HTML, CSS, Styled Components, TailwindCSS.
+Back-End: Início com Node.js.
+Banco de Dados: MySQL.
+Versionamento: Git.
+📚 Habilidades Técnicas e Formação:
+Atualmente, estou aprofundando meu conhecimento em React.js e suas principais funcionalidades:
 
+Fundamentos do React: Componentização, renderização e organização do código.
+CSS com React: Estilos modulares, globais e integração com bibliotecas como TailwindCSS.
+Hooks do React: Domínio de useState, useEffect, useRef, entre outros.
+Consumo de APIs: Integração e manipulação de dados com requisições HTTP.
+React Router: Criação de rotas e navegação em aplicações SPA.
+Context API: Gerenciamento de estados globais.
+💡 Estou sempre buscando novos desafios e me dedicando ao aprendizado contínuo, com o objetivo de contribuir ativamente para projetos e equipes.
 
-Cursando (React.js (c/Hooks, router, API, Projetos))
-
-Alguns dos tópicos abordados são:
-- Fundamentos do React;
-- CSS com React (Component, CSS Modules, global CSS, TailwindCSS);
-- Hooks do React (useState, useEffect, useRef e todos os outros hooks);
-- Requisições HTTP com React (Como enviar e receber dados de uma API);
-- React Router;
-- Context API;
-- CSS Modules.
+🌟 Vamos construir algo incrível juntos?
