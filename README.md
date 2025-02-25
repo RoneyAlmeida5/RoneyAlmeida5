@@ -1,4 +1,4 @@
-👋 Olá, eu sou Roney Almeida, um desenvolvedor em início de carreira apaixonado por tecnologia, especialmente pelo Front-End. Estou em busca da minha primeira oportunidade no mercado para colocar em prática as habilidades que venho desenvolvendo. 🚀
+👋 Olá, eu sou Roney Almeida, um desenvolvedor Full-Stack em início de carreira apaixonado por tecnologia. Estou em busca da minha primeira oportunidade no mercado para colocar em prática as habilidades que venho desenvolvendo. 🚀
 
 🎯 Minha missão: Criar experiências digitais incríveis, sempre aprendendo e evoluindo para oferecer as melhores soluções.
 
