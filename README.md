@@ -1,6 +1,6 @@
 👋 Olá, eu sou Roney Almeida, um desenvolvedor em início de carreira apaixonado por tecnologia, especialmente pelo Front-End. Estou em busca da minha primeira oportunidade no mercado para colocar em prática as habilidades que venho desenvolvendo. 🚀
 
-🎯 Minha missão: Criar experiências digitais incríveis, sempre aprendendo e evoluindo para oferecer as melhores soluções. Embora o Front-End seja minha paixão, estou aberto a explorar outras áreas e linguagens para expandir meu conhecimento.
+🎯 Minha missão: Criar experiências digitais incríveis, sempre aprendendo e evoluindo para oferecer as melhores soluções.
 
 🛠️ Tecnologias e Ferramentas:
 
