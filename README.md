@@ -4,12 +4,12 @@
 
 🛠️ Tecnologias e Ferramentas:
 
-Front-End: React.js, React Native, HTML, CSS, Styled Components, TailwindCSS.
-Back-End: Início com Node.js.
+Front-End: ReactJS, React Native, HTML, CSS, Styled Components, TailwindCSS.
+Back-End: NodeJS and NestJS.
 Banco de Dados: MySQL.
 Versionamento: Git.
 📚 Habilidades Técnicas e Formação:
-Atualmente, estou aprofundando meu conhecimento em React.js e suas principais funcionalidades:
+Atualmente, estou aprofundando meu conhecimento em ReactJS e suas principais funcionalidades:
 
 Fundamentos do React: Componentização, renderização e organização do código.
 CSS com React: Estilos modulares, globais e integração com bibliotecas como TailwindCSS.
